@@ -36,11 +36,11 @@ This project focuses on two topic: how wind and rain noise passing through the o
 
 • What arethe main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
-The main reason for observing different spectral levels in Oregon shelf compared to Oregon offshore is the depth of each device. While Oregon shelf locates at 80m depth, Oregon offshore locates much lower at 580m. Because Shelf is closer to the surface, it absord a lot more vibrations or sound. That is reason why all graphs of Offshore are more stable compared to Shelf at the same type of water.
+> The main reason for observing different spectral levels in Oregon shelf compared to Oregon offshore is the depth of each device. While Oregon shelf locates at 80m depth, Oregon offshore locates much lower at 580m. Because Shelf is closer to the surface, it absord a lot more vibrations or sound. That is reason why all graphs of Offshore are more stable compared to Shelf at the same type of water.
 
 • Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve(refer to the Ocean Noise slides)?
 
-From all three graphs from Airgun, Marine Mammals and Earthquake, they are significant at low frequency, with the lowest is airgun. While airgun is show more clear frequency at 0 to 50Hz, Earth quake is from 0 to 100Hz and animal is longest range at 0 to higher then 5000Hz. Comparing those with Wenz Curve graph, they match with presented lines in Wenz Curve graph.
+> From all three graphs from Airgun, Marine Mammals and Earthquake, they are significant at low frequency, with the lowest is airgun. While airgun is show more clear frequency at 0 to 50Hz, Earth quake is from 0 to 100Hz and animal is longest range at 0 to higher then 5000Hz. Comparing those with Wenz Curve graph, they match with presented lines in Wenz Curve graph.
 
 ## VI. References
 
